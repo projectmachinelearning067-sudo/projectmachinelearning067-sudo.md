@@ -12,7 +12,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=7c3aed&labelColor=0a0a0f)](https://github.com/ABHAYBARMAN067)
 
 </div>
-
+<p align="center">
+<img 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+  alt="Coding animation" 
+  width="500"
+/>
+</p>
 ---
 
 ## 🙋‍♂️ About Me
