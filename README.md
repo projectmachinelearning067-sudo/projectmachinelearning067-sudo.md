@@ -79,38 +79,43 @@ Machine Learning Fundamentals
 
 ---
 
+```md
 ## 🚀 Current Projects
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" style="padding:15px">
-      <h3>🌿 Air Quality Predictor</h3>
-      🔥 Python · Flask · Machine Learning<br/>
-      📊 Real-time air quality prediction using ML models
+    <td align="center" width="50%">
+      <h3>🏨 Hotel Reservation Form</h3>
+      🍽️ React · Node.js · Express · MongoDB<br/>
+      🏨 Hotel booking, food ordering & admin management system
     </td>
-    <td align="center" style="padding:15px">
-      <h3>🍲 Recipe Share Platform</h3>
-      🍽️ MongoDB · Express · React · Node<br/>
-      👨‍🍳 Share & discover amazing recipes
+    <td align="center" width="50%">
+      <h3>🏠 TripNest</h3>
+      ⚡ Next.js 16 · TypeScript · MongoDB<br/>
+      🌍 Airbnb-inspired travel listing & booking platform
     </td>
   </tr>
+
   <tr>
-    <td align="center" style="padding:15px">
-      <h3>🧑‍💼 Personal Portfolio</h3>
-      ✨ React · Next.js · GSAP · Framer Motion<br/>
-      🚀 Smooth animations & modern UI/UX
+    <td align="center" width="50%">
+      <h3>🛒 Advanced E-Commerce Platform</h3>
+      🛍️ React · Express · MongoDB · JWT<br/>
+      👨‍💼 User, Seller & Admin role-based commerce system
     </td>
-    <td align="center" style="padding:15px">
-      <h3>📱 Bus Ticket Booking App</h3>
-      📲 React Native · Firebase<br/>
-      🎟️ Fast & simple mobile-first booking system
+    <td align="center" width="50%">
+      <h3>🚀 More Projects Coming</h3>
+      💡 Full Stack · AI · Mobile Apps<br/>
+      🔥 Continuously building and shipping new ideas
     </td>
   </tr>
+
 </table>
 
 </div>
+```
+
 
 ---
 
