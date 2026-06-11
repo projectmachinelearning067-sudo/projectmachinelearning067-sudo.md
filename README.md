@@ -117,17 +117,17 @@ Machine Learning Fundamentals
 
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4&text_color=e8e8f0&border_radius=12" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=0a0a0f&ring=7c3aed&fire=06b6d4&currStreakLabel=e8e8f0&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&border_radius=12" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&border_radius=12" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e8e8f0&border_radius=12" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&text_color=FFFFFF&border_radius=12" width="40%" />
 
 </div>
 
@@ -136,7 +136,7 @@ Machine Learning Fundamentals
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 
@@ -144,14 +144,21 @@ Machine Learning Fundamentals
 <p align="center">
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" />
 </p>
+
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <a href="https://github.com/ABHAYBARMAN067">
-    <img src="https://raw.githubusercontent.com/ABHAYBARMAN067/ABHAYBARMAN067/output/github-contribution-grid-snake.svg" width="900" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=github-dark&hide_border=true&bg_color=062B3A&color=00A7D8&line=00A7D8&point=7FD8F5" width="100%" />
 </div>
 
+
+<!--
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ABHAYBARMAN067/ABHAYBARMAN067/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+-->
 ---
 
 ## 📫 Connect With Me
