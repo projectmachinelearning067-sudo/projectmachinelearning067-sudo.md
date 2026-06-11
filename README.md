@@ -79,7 +79,7 @@ Machine Learning Fundamentals
 
 ---
 
-```md
+
 ## 🚀 Current Projects
 
 <div align="center">
@@ -114,7 +114,6 @@ Machine Learning Fundamentals
 </table>
 
 </div>
-```
 
 
 ---
