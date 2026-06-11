@@ -1,25 +1,31 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=const+abhay+%3D+new+Developer();+%F0%9F%9A%80;Building+Full+Stack+%2B+Mobile+Apps+%F0%9F%93%B1;Learning+Advanced+React+%26+React+Native+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9C%A8;Build.+Break.+Learn.+Grow.+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A7D8&center=true&vCenter=true&multiline=false&width=700&lines=const+abhay+%3D+new+Developer();+%F0%9F%9A%80;Building+Full+Stack+%2B+Mobile+Apps+%F0%9F%93%B1;Learning+Advanced+React+%26+React+Native+%F0%9F%8C%B1;Open+to+Collaborate+%E2%9C%A8;Build.+Break.+Learn.+Grow.+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=7c3aed&labelColor=0a0a0f)](https://github.com/ABHAYBARMAN067)
+![Profile Views](https://komarev.com/ghpvc/?username=ABHAYBARMAN067&color=00A7D8&style=for-the-badge&label=PROFILE+VIEWS)
+
+[![GitHub followers](https://img.shields.io/github/followers/ABHAYBARMAN067?style=for-the-badge&color=00A7D8&labelColor=062B3A)](https://github.com/ABHAYBARMAN067)
 
 </div>
+
 <p align="center">
-<img 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-  alt="Coding animation" 
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding animation"
   width="500"
 />
 </p>
+
 ---
+```
+
 
 ## 🙋‍♂️ About Me
 
