@@ -122,6 +122,9 @@ Machine Learning Fundamentals
   <img src="https://github-profile-trophy.vercel.app/?username=ABHAYBARMAN067&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" />
+</p>
 ---
 
 ## 🐍 Contribution Graph
