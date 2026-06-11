@@ -164,6 +164,4 @@ Machine Learning Fundamentals
 
 > **"Build things you love. Break things to learn. Fix things to grow."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
-
 </div>
